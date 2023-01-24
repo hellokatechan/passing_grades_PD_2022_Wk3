@@ -1,5 +1,7 @@
 # Passing Grade
 
+This is a data-wrangling project where I used Python and Tableau Prep to complete the tasks.
+
 ## Business Requirements
 * Input both data sets
 * Join the data sets together to give us the grades per student
